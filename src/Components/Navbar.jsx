@@ -13,7 +13,7 @@ function Navbar() {
           </ul>
         </div>
         <div className="Navbar-list2">
-        <div className="DarkMode"> Dark Mode</div>
+        <div className="login">Login</div>
            
         </div>
       </div>
